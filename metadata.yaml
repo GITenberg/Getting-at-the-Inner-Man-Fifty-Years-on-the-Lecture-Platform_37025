@@ -1,0 +1,37 @@
+_repo: Getting-at-the-Inner-Man-Fifty-Years-on-the-Lecture-Platform_37025
+_version: 0.1.0
+alternative_title: Getting at the Inner Man, and, 50 Years on the Lecture Platform
+covers:
+- cover_type: archival
+  image_path: 37025-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Shackleton, Robert
+    birthdate: 1860
+    deathdate: 1923
+    gutenberg_agent_id: '38534'
+    url: http://www.gutenberg.org/2009/agents/38534
+  - agent_name: Conwell, Russell H.
+    alias: Conwell, Russell Herman
+    birthdate: 1843
+    deathdate: 1925
+    gutenberg_agent_id: '203'
+    url: http://www.gutenberg.org/2009/agents/203
+    wikipedia: http://en.wikipedia.org/wiki/Russell_Conwell
+description: ''
+gutenberg_issued: '2011-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37025'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conwell, Russell H., 1843-1925'
+- !lcc 'BX'
+tableOfContents: 'Getting at the inner man: Millions of hearers. How a university
+  was founded. Conwell''s splendid efficiency. The story of "Acres of diamonds" --
+  Fifty years on the lecture platform.'
+title: Getting at the Inner Man, and, Fifty Years on the Lecture Platform
+url: http://www.gutenberg.org/ebooks/37025
